@@ -1,1 +1,3 @@
-# contact
+# maven-project
+
+Simple Maven Project
